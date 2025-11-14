@@ -8,103 +8,59 @@ This project focuses on exploring and visualizing Netflix titles using Power BI.
 The dashboard provides a clear overview of:
 
 Total titles on the platform
-
 Genre and rating distributions
-
 Movies vs TV Shows comparison
-
 Country-wise content production
-
 Year-wise content trends (1925–2021)
-
 Key insights through interactive visuals
-
 The primary objective is to help users understand Netflix content patterns and identify major contributing countries, genres, and growth trends.
 
 🛠️ Tech Stack
 
 Power BI
-
 Excel (data cleaning)
-
 Data Modeling & Transformation
-
 Power Query
 
 📂 Dataset
 
 The dataset contains:
-
 8,800+ titles
-
 749 locations
-
 Multiple genres, ratings, and categories
-
 Release years ranging from 1925 to 2021
-
 (Source: Netflix Titles dataset from Kaggle / public dataset)
 
 📸 Dashboard Preview
 
-![Netflix Dashboard](<img width="1548" height="870" alt="image" src="https://github.com/user-attachments/assets/61665b97-293f-4086-ad76-44a9d41ad8ca" />
+![Netflix Dashboard](C:\Users\aherl\Downloads
 )
 
 📈 Key Features
 🔹 Genre Analysis
-
 Identifies top-performing genres
-
 Shows popularity trends across categories
 
 🔹 Ratings Distribution
-
 Highlights which ratings are most common (TV-MA, TV-14, etc.)
 
 🔹 Movies vs TV Shows
-
 Donut chart visual showing percentage split
-
 Helps identify Netflix’s primary content type
 
 🔹 Country-wise Insights
-
 Tree map showing top 10 countries producing Netflix content
 
 🔹 Timeline Analysis
-
 Visualizes rise in content over the years
-
 Detects rapid growth after 2015
 
 📑 Steps Performed
 
 Cleaned and formatted dataset using Excel & Power Query
-
 Loaded data into Power BI
-
 Performed data transformations (null cleaning, type conversion, splitting columns)
-
 Built KPIs and interactive visuals
-
 Designed a dark-themed dashboard for better readability
-
 Published the final dashboard with insights
 
-📥 How to Use
-
-Download the .pbix file from this repository
-
-Open it in Power BI Desktop
-
-Interact with slicers, charts, and filters to explore insights
-
-📌 Future Improvements
-
-Add advanced filtering options
-
-Integrate DAX-based KPIs
-
-Create a report page navigation system
-
-Build a Power BI Service online version
