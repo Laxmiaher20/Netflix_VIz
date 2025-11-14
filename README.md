@@ -31,11 +31,6 @@ Multiple genres, ratings, and categories
 Release years ranging from 1925 to 2021
 (Source: Netflix Titles dataset from Kaggle / public dataset)
 
-📸 Dashboard Preview
-
-![Netflix Dashboard](C:\Users\aherl\Downloads
-)
-
 📈 Key Features
 🔹 Genre Analysis
 Identifies top-performing genres
